@@ -1,0 +1,15 @@
+{
+  "name": "kirbyplainkit-tailwind",
+  "description": "A Kirby CMS + tailwind.css starter",
+  "repository": "https://github.com/Jobbies/kirbyplainkit-tailwind.git",
+  "license": "",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "postcss assets/css/tailwind.css -o assets/css/main.css"
+  },
+  "devDependencies": {
+    "autoprefixer": "^9.7.6",
+    "postcss-cli": "^7.1.1",
+    "tailwindcss": "^1.4.5"
+  }
+}
