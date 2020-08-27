@@ -1,0 +1,3 @@
+title: Headline
+----
+text: This is a normal text. It's possible to wirte a little teaser or a whole roman.

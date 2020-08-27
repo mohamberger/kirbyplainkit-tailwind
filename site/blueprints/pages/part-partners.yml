@@ -1,0 +1,10 @@
+title: Partners
+icon: star
+
+fields:
+  headline:
+    type: text
+  gallery:
+    type: files
+    headline: Logos
+    template: image

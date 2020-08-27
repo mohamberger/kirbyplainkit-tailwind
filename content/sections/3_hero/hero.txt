@@ -1,0 +1,11 @@
+title: Hero title
+----
+text: This is the Text of the Hero
+----
+urltext1: Button 1
+----
+url1: #
+----
+urltext2: Button 2
+----
+url2: #

@@ -1,0 +1,12 @@
+Title: Sponsoren
+
+----
+
+Headline: Meine Partner*innen
+
+----
+
+Gallery:
+
+- mo-logo.svg
+- freiraum_black.svg

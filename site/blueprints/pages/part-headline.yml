@@ -1,0 +1,7 @@
+title: Headline section
+icon: title
+
+sections:
+  info:
+    headline: Hinweis
+    text: Bitte Titelfeld oben benutzen
