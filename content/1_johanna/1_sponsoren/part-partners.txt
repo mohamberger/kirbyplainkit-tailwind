@@ -6,6 +6,13 @@ Headline: Meine Partner*innen
 
 ----
 
+Logos:
+
+- freiraum_black.svg
+- freiraum_quadratisch.svg
+
+----
+
 Gallery:
 
 - mo-logo.svg
