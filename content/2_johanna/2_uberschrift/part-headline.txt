@@ -1,9 +1,0 @@
-Title: Das ist eine Überschrift
-
-----
-
-Headline: Das ist eine Überschrift
-
-----
-
-Text: 
