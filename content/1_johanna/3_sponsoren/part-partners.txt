@@ -8,8 +8,8 @@ Headline: Meine Partner*innen
 
 Logos:
 
-- freiraum_black.svg
-- freiraum_quadratisch.svg
+- dslv_logo.svg
+- family.png
 
 ----
 

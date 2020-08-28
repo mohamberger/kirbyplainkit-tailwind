@@ -9,3 +9,4 @@ fields:
     label: Logos
     template: image
     layout: cards
+    uploads: image
