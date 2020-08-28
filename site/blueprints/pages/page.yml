@@ -1,0 +1,15 @@
+title: Normale Seite
+icon: page
+preset: page
+
+sections:
+  part:
+    headline: Sektionen
+    type: pages
+    status: all
+    info: "{{ page.intendedTemplate }}"
+    image: false
+    templates:
+      - part-headline
+      - part-partners
+      - part-text
