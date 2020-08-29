@@ -1,0 +1,17 @@
+title: Text mit 3 Bildern
+icon: file-document
+
+fields:
+  headline:
+    type: text
+  text:
+    type: textarea
+  gallery:
+    type: files
+    label: Bilder
+    min: 1
+    max: 3
+    template: image
+    layout: cards
+    uploads: image
+

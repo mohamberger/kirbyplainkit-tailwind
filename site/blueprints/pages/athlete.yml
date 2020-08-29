@@ -63,7 +63,4 @@ columns:
           - part-headline
           - part-partners
           - part-text
-          - pager-headline
-          - pager-hero
-          - pager-text
-          - pager-video
+          - part-text-3img
