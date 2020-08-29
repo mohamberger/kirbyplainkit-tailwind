@@ -2,7 +2,7 @@
   <div class="grid grid-cols-1 md:grid-cols-3 gap-32">
     <div class="col-span-1">
       <h2 class="text-6xl leading-tight font-black mb-8"><?= $part->headline(); ?></h2>
-      <p><?= $part->text() ?></p>
+      <p><?= kirbytext($part->text()) ?></p>
     </div>
     <div class="col-span-2 grid grid-cols-2 md:grid-cols-3 gap-16">
       <?php $img = $part->gallery()->toFiles() ?>

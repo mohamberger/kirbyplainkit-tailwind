@@ -1,5 +1,6 @@
 <head>
   <?= css('assets/css/main.css') ?>
+  <?= css('assets/css/tailwind.css') ?>
 </head>
 
 <body class="bg-black text-white">
