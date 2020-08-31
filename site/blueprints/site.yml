@@ -4,3 +4,4 @@ unlisted: true
 templates:
   - page
   - athlete
+  - home
